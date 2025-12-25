@@ -1,4 +1,4 @@
-# Lab 2: Advanced VLANs, Trunking, and Inter-VLAN Routing
+# Advanced VLANs, Trunking, and Inter-VLAN Routing
 
 This lab demonstrates configuration and verification of **VLANs**, **802.1Q trunking**, and **inter-VLAN routing** using Cisco switches and routed interfaces / SVIs in Cisco Packet Tracer.
 
